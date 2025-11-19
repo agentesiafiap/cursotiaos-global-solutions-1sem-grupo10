@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HumanIza - Onboarding Inteligente</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤝 HumanIza</h1>
+            <p>Seu assistente de integração e carreira</p>
+            <div class="header-links">
+                <a href="r_analysis/eda.html" target="_blank" class="dashboard-link">
+                    📊 Dashboard Analytics
+                </a>
+            </div>
+        </header>
+
+        <!-- Tab: Chat -->
+        <div id="chat-tab" class="tab-content active">
+            <div class="chat-container">
+                <div id="chat-messages" class="chat-messages">
+                    <div class="message bot">
+                        <strong>Iza:</strong> Olá! Sou a Iza, sua assistente do HumanIza. Pergunte sobre benefícios, horários, férias ou cultura da empresa!
+                    </div>
+                </div>
+                <div class="chat-input">
+                    <input type="text" id="question" placeholder="Digite sua pergunta..." onkeypress="if(event.key==='Enter') sendMessage()">
+                    <button onclick="sendMessage()">Enviar</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab: Mentor -->
+        <div id="mentor-tab" class="tab-content">
+            <h2>🤝 Encontre seu Mentor</h2>
+            
+            <div class="form-group">
+                <label for="skills">Suas habilidades:</label>
+                <input type="text" id="skills" placeholder="Ex: Python, Liderança, Comunicação">
+                <small>Separe com vírgulas as habilidades que você possui</small>
+            </div>
+            
+            <div class="form-group">
+                <label for="interests">Seus interesses:</label>
+                <input type="text" id="interests" placeholder="Ex: Inovação, Sustentabilidade, Tecnologia">
+                <small>Áreas que você gostaria de desenvolver ou aprender</small>
+            </div>
+            
+            <button class="btn-primary" onclick="findMentors()">Buscar Mentores</button>
+            
+            <div id="recommendations" class="recommendations"></div>
+        </div>
+
+        <!-- Tab: Missions -->
+        <div id="missions-tab" class="tab-content">
+            <h2>🎮 Suas Missões de Onboarding</h2>
+            
+            <div class="mission">
+                <input type="checkbox" id="m1" onchange="updateProgress()">
+                <label for="m1">
+                    <strong>👥 Conheça seu time</strong>
+                    <p>Agende um café virtual com seus colegas</p>
+                    <span class="points">10 pontos</span>
+                </label>
+            </div>
+            
+            <div class="mission">
+                <input type="checkbox" id="m2" onchange="updateProgress()">
+                <label for="m2">
+                    <strong>💻 Desbloqueie seu setup</strong>
+                    <p>Complete o checklist de TI e ferramentas</p>
+                    <span class="points">15 pontos</span>
+                </label>
+            </div>
+            
+            <div class="mission">
+                <input type="checkbox" id="m3" onchange="updateProgress()">
+                <label for="m3">
+                    <strong>📚 Mestre da Cultura</strong>
+                    <p>Leia o guia de cultura e responda o quiz</p>
+                    <span class="points">20 pontos</span>
+                </label>
+            </div>
+            
+            <div class="mission">
+                <input type="checkbox" id="m4" onchange="updateProgress()">
+                <label for="m4">
+                    <strong>🎯 Primeiro Mentor</strong>
+                    <p>Conecte-se com um mentor sugerido</p>
+                    <span class="points">25 pontos</span>
+                </label>
+            </div>
+            
+            <div class="progress-section">
+                <h3>Progresso: <span id="progress-text">0/4 missões</span></h3>
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill"></div>
+                </div>
+                <p id="badge-status">Continue completando missões para ganhar badges!</p>
+            </div>
+        </div>
+
+        <nav class="tabs">
+            <button class="tab active" onclick="showTab('chat')">💬 Chat com Iza</button>
+            <button class="tab" onclick="showTab('mentor')">🤝 Encontre seu Mentor</button>
+            <button class="tab" onclick="showTab('missions')">🎮 Missões</button>
+        </nav>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
