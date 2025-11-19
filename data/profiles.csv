@@ -1,0 +1,201 @@
+id,nome,departamento,cargo,habilidades,interesses,disponivel_mentoria
+1,Brenda Alves,TI,Sênior,"Excel, Design, Gestão de Projetos, SQL, JavaScript","Saúde Mental, Educação",True
+2,Sra. Isabelly Câmara,TI,Júnior,"JavaScript, Design, Gestão de Projetos, Análise de Dados, Python","Educação, Inovação, Tecnologia",True
+3,Cauã Rocha,TI,Júnior,"Inovação, Comunicação, Liderança, Excel","Inovação, Saúde Mental, Diversidade",True
+4,Dra. Aurora Pastor,TI,Pleno,"Liderança, Marketing Digital, Excel","Sustentabilidade, Tecnologia, Saúde Mental",False
+5,Ana Beatriz Alves,Vendas,Sênior,"Design, JavaScript, Python","Saúde Mental, Inovação, Diversidade",True
+6,Henrique da Conceição,Marketing,Pleno,"Mentoria, Gestão de Projetos, Liderança","Inovação, Diversidade",False
+7,Amanda Novais,TI,Sênior,"Gestão de Projetos, SQL, Análise de Dados","Saúde Mental, Inovação, Educação",False
+8,Yago Leão,RH,Sênior,"Liderança, Python, Design, Gestão de Projetos","Diversidade, Tecnologia, Saúde Mental",True
+9,Pietro Pastor,RH,Sênior,"Mentoria, Comunicação, Inovação","Inovação, Diversidade, Saúde Mental",True
+10,André Teixeira,Marketing,Sênior,"Comunicação, Liderança, Design, SQL, Mentoria","Sustentabilidade, Saúde Mental, Educação",True
+11,Otávio Fernandes,Marketing,Sênior,"JavaScript, Comunicação, Gestão de Projetos, Mentoria, Excel","Educação, Sustentabilidade",True
+12,Eduardo Cunha,Vendas,Júnior,"Excel, Comunicação, SQL, Mentoria, Python","Saúde Mental, Diversidade, Inovação",True
+13,Sr. Caleb Garcia,RH,Júnior,"Liderança, SQL, Análise de Dados, Marketing Digital, Python","Educação, Diversidade, Tecnologia",True
+14,Luiz Henrique Ferreira,Vendas,Júnior,"Python, Design, Marketing Digital","Sustentabilidade, Saúde Mental, Tecnologia",True
+15,Julia Aparecida,RH,Sênior,"Mentoria, Análise de Dados, SQL, Excel, Comunicação","Inovação, Educação",True
+16,Sra. Zoe Campos,Marketing,Sênior,"Gestão de Projetos, Liderança, Mentoria, Análise de Dados, Marketing Digital","Sustentabilidade, Inovação, Educação",True
+17,Anna Liz Novaes,RH,Sênior,"Design, Python, JavaScript, Gestão de Projetos","Inovação, Sustentabilidade",True
+18,Luiz Miguel Oliveira,RH,Pleno,"Gestão de Projetos, Mentoria, Design, Análise de Dados","Inovação, Educação",False
+19,Bernardo Aparecida,Marketing,Júnior,"JavaScript, Inovação, Comunicação","Diversidade, Tecnologia, Educação",False
+20,Heloísa Vargas,TI,Júnior,"Comunicação, Liderança, JavaScript, Design, Análise de Dados","Inovação, Educação",False
+21,Bruno da Conceição,RH,Pleno,"Mentoria, Design, JavaScript","Tecnologia, Educação, Sustentabilidade",True
+22,Mateus da Mota,TI,Júnior,"SQL, Comunicação, Mentoria, Marketing Digital, Design","Tecnologia, Sustentabilidade",True
+23,Maria Clara Castro,Marketing,Pleno,"Mentoria, Excel, Comunicação, Análise de Dados","Saúde Mental, Tecnologia",True
+24,Dr. Gustavo Henrique Rios,RH,Júnior,"Marketing Digital, Análise de Dados, Python","Saúde Mental, Diversidade, Sustentabilidade",True
+25,Brayan Pereira,RH,Júnior,"Análise de Dados, JavaScript, SQL, Gestão de Projetos, Inovação","Saúde Mental, Inovação, Tecnologia",True
+26,Eloá Nascimento,TI,Sênior,"JavaScript, Comunicação, Marketing Digital, Análise de Dados, Liderança","Diversidade, Inovação",False
+27,Srta. Elisa Martins,Marketing,Júnior,"Gestão de Projetos, Inovação, Excel","Tecnologia, Diversidade, Sustentabilidade",True
+28,Júlia Porto,TI,Sênior,"Design, Análise de Dados, Excel, SQL","Diversidade, Sustentabilidade",True
+29,Dra. Hellena Rodrigues,RH,Pleno,"Análise de Dados, Excel, Marketing Digital, Inovação","Sustentabilidade, Educação, Diversidade",True
+30,Sr. Ian Andrade,TI,Júnior,"Inovação, Análise de Dados, SQL","Diversidade, Saúde Mental, Inovação",False
+31,Dr. João Felipe Azevedo,Marketing,Pleno,"Python, JavaScript, Comunicação","Diversidade, Sustentabilidade, Educação",False
+32,Levi Cunha,RH,Sênior,"Mentoria, Análise de Dados, Comunicação","Educação, Sustentabilidade, Saúde Mental",True
+33,Sara Gonçalves,TI,Pleno,"Marketing Digital, Análise de Dados, SQL, Comunicação, Inovação","Sustentabilidade, Diversidade",False
+34,Natália Casa Grande,RH,Sênior,"Design, Gestão de Projetos, JavaScript","Diversidade, Educação, Tecnologia",True
+35,Davi Miguel da Cruz,RH,Pleno,"Python, SQL, Liderança","Tecnologia, Inovação",False
+36,Dra. Zoe da Luz,Marketing,Júnior,"Mentoria, Design, Gestão de Projetos","Tecnologia, Diversidade",False
+37,Dra. Mariane Pacheco,TI,Sênior,"Design, Comunicação, Liderança","Diversidade, Sustentabilidade",False
+38,Maria Cecília Câmara,Vendas,Júnior,"JavaScript, Excel, SQL, Gestão de Projetos","Sustentabilidade, Saúde Mental, Tecnologia",False
+39,Thomas Monteiro,Marketing,Sênior,"Análise de Dados, JavaScript, Comunicação, Design, Excel","Sustentabilidade, Tecnologia, Saúde Mental",True
+40,Benicio Camargo,TI,Sênior,"Liderança, Marketing Digital, Inovação, JavaScript","Saúde Mental, Diversidade, Educação",False
+41,Emanuel Vieira,Vendas,Sênior,"SQL, Design, Comunicação, Marketing Digital","Saúde Mental, Inovação, Diversidade",False
+42,Mariana Peixoto,Vendas,Pleno,"Design, Comunicação, Marketing Digital, Liderança, Mentoria","Tecnologia, Saúde Mental",True
+43,Matheus Garcia,RH,Sênior,"JavaScript, Excel, Análise de Dados, Liderança, Inovação","Inovação, Diversidade, Saúde Mental",True
+44,Nina Moura,TI,Júnior,"Mentoria, Marketing Digital, JavaScript","Tecnologia, Saúde Mental",True
+45,Yuri Albuquerque,Marketing,Pleno,"Design, SQL, Python, JavaScript, Comunicação","Inovação, Saúde Mental, Tecnologia",True
+46,Bruna Rodrigues,TI,Pleno,"SQL, Mentoria, Análise de Dados, Marketing Digital, Liderança","Tecnologia, Educação",False
+47,Juliana Vargas,RH,Sênior,"Mentoria, Inovação, Excel, Design, Marketing Digital","Educação, Tecnologia, Inovação",False
+48,Manuela Camargo,Vendas,Júnior,"Excel, Liderança, Gestão de Projetos, Análise de Dados","Sustentabilidade, Inovação",True
+49,Pedro Henrique Castro,RH,Sênior,"Design, JavaScript, Comunicação","Tecnologia, Diversidade, Saúde Mental",False
+50,Agatha Silveira,Marketing,Pleno,"Marketing Digital, Python, Inovação","Tecnologia, Saúde Mental",True
+51,Sra. Sarah Teixeira,Marketing,Pleno,"Análise de Dados, Inovação, Marketing Digital, Design","Tecnologia, Inovação, Diversidade",False
+52,Thiago Caldeira,Marketing,Pleno,"Gestão de Projetos, Inovação, Comunicação, SQL","Tecnologia, Inovação",True
+53,Letícia Porto,TI,Sênior,"Comunicação, SQL, Mentoria, Gestão de Projetos","Sustentabilidade, Diversidade",False
+54,Fernanda Cassiano,Marketing,Pleno,"Liderança, Comunicação, Excel, Gestão de Projetos","Diversidade, Sustentabilidade",False
+55,Sr. Vitor Hugo Vasconcelos,Vendas,Júnior,"Gestão de Projetos, JavaScript, Python","Sustentabilidade, Inovação",True
+56,Agatha Peixoto,RH,Júnior,"Mentoria, Gestão de Projetos, JavaScript","Educação, Inovação",False
+57,Dr. Antony Camargo,Vendas,Júnior,"Marketing Digital, Inovação, JavaScript, SQL, Excel","Sustentabilidade, Educação, Saúde Mental",False
+58,Dr. Isaque Araújo,Marketing,Sênior,"Design, JavaScript, Marketing Digital, Inovação, Gestão de Projetos","Saúde Mental, Diversidade, Sustentabilidade",True
+59,Bruno Barros,Vendas,Júnior,"Análise de Dados, Gestão de Projetos, Liderança, Python","Tecnologia, Saúde Mental, Sustentabilidade",False
+60,Sra. Ana Lívia Teixeira,RH,Pleno,"SQL, Análise de Dados, Excel, Gestão de Projetos","Tecnologia, Saúde Mental, Educação",False
+61,Carolina Cardoso,TI,Pleno,"Mentoria, Design, Inovação, Comunicação","Diversidade, Sustentabilidade",False
+62,Olívia Novaes,Marketing,Júnior,"Liderança, Excel, Inovação, Gestão de Projetos","Educação, Diversidade",True
+63,João Moura,TI,Júnior,"Inovação, Comunicação, Mentoria, Análise de Dados, Design","Saúde Mental, Tecnologia",False
+64,Mariana Cunha,TI,Pleno,"Design, Comunicação, Inovação, Excel","Saúde Mental, Educação",False
+65,Gabriela Silva,Marketing,Sênior,"Análise de Dados, Liderança, Gestão de Projetos, Mentoria","Diversidade, Saúde Mental, Educação",True
+66,Murilo Rios,Vendas,Júnior,"Inovação, Análise de Dados, SQL","Inovação, Saúde Mental",False
+67,Maria Fernanda Macedo,TI,Júnior,"Excel, Design, Liderança, SQL","Diversidade, Sustentabilidade, Inovação",False
+68,Milena Campos,Vendas,Sênior,"SQL, Gestão de Projetos, Mentoria","Sustentabilidade, Saúde Mental",False
+69,Henry Gabriel Azevedo,Marketing,Pleno,"SQL, Python, Excel, Mentoria","Sustentabilidade, Saúde Mental, Tecnologia",False
+70,Sr. Yuri da Conceição,RH,Júnior,"Marketing Digital, Excel, JavaScript","Inovação, Sustentabilidade",False
+71,Hellena Abreu,Marketing,Pleno,"Mentoria, Excel, Marketing Digital, Comunicação, Gestão de Projetos","Educação, Saúde Mental",True
+72,Bento da Conceição,RH,Sênior,"Design, Excel, JavaScript, SQL, Inovação","Inovação, Educação",True
+73,Arthur Gabriel Farias,Marketing,Pleno,"Inovação, Marketing Digital, Mentoria","Diversidade, Sustentabilidade",True
+74,Théo da Costa,Marketing,Júnior,"Gestão de Projetos, Design, Excel, Inovação","Tecnologia, Sustentabilidade, Inovação",True
+75,Ryan Cunha,TI,Júnior,"SQL, Excel, Marketing Digital, Gestão de Projetos","Tecnologia, Sustentabilidade",False
+76,Caroline Silveira,Marketing,Pleno,"Análise de Dados, Inovação, Mentoria, Marketing Digital, JavaScript","Educação, Sustentabilidade, Tecnologia",False
+77,Olívia da Cruz,TI,Júnior,"Design, Gestão de Projetos, Marketing Digital, Python, Excel","Educação, Sustentabilidade, Inovação",False
+78,Maria Luísa Correia,Vendas,Júnior,"Marketing Digital, Comunicação, Mentoria, JavaScript, Inovação","Diversidade, Tecnologia, Saúde Mental",False
+79,Calebe Ribeiro,RH,Pleno,"Comunicação, Mentoria, Excel, Inovação, Python","Tecnologia, Sustentabilidade",False
+80,Maria Lima,TI,Pleno,"Análise de Dados, Python, Inovação, Mentoria","Tecnologia, Sustentabilidade, Inovação",False
+81,Nina Siqueira,Marketing,Júnior,"Design, Excel, Análise de Dados, SQL, Gestão de Projetos","Tecnologia, Saúde Mental, Sustentabilidade",True
+82,Carlos Eduardo Araújo,RH,Pleno,"Análise de Dados, Python, Inovação, Comunicação, JavaScript","Inovação, Sustentabilidade",False
+83,Maitê Caldeira,Marketing,Sênior,"Excel, Análise de Dados, Inovação","Tecnologia, Saúde Mental",False
+84,Gael Correia,RH,Pleno,"Design, Marketing Digital, Análise de Dados","Saúde Mental, Inovação, Sustentabilidade",False
+85,Melissa Carvalho,Vendas,Júnior,"Excel, Inovação, Marketing Digital, Mentoria","Inovação, Tecnologia, Educação",False
+86,Emilly da Mota,Marketing,Pleno,"Design, Inovação, Marketing Digital, Comunicação","Inovação, Tecnologia, Sustentabilidade",False
+87,Isadora Barbosa,Marketing,Pleno,"Gestão de Projetos, Inovação, SQL, Mentoria, Python","Inovação, Educação, Diversidade",True
+88,Beatriz Aragão,Marketing,Júnior,"Inovação, SQL, Comunicação, Gestão de Projetos","Sustentabilidade, Tecnologia",False
+89,Ágatha Albuquerque,TI,Pleno,"Gestão de Projetos, Análise de Dados, Comunicação, Liderança","Saúde Mental, Tecnologia, Sustentabilidade",True
+90,Isaac Cavalcante,RH,Sênior,"JavaScript, Comunicação, Inovação","Saúde Mental, Sustentabilidade, Tecnologia",True
+91,Raquel Mendes,TI,Júnior,"Liderança, Python, Excel, Inovação, Análise de Dados","Tecnologia, Inovação, Educação",False
+92,Murilo Araújo,RH,Júnior,"JavaScript, Marketing Digital, Comunicação, Design, Mentoria","Educação, Inovação",True
+93,Mateus Abreu,Marketing,Pleno,"Gestão de Projetos, Python, Mentoria, Excel","Saúde Mental, Educação, Inovação",True
+94,Julia Viana,Vendas,Sênior,"Comunicação, Excel, Mentoria, Gestão de Projetos","Inovação, Tecnologia, Educação",True
+95,Laura Lima,Vendas,Sênior,"Excel, Inovação, Python","Saúde Mental, Tecnologia, Diversidade",True
+96,Dra. Raquel Cassiano,Marketing,Pleno,"Design, Marketing Digital, Liderança, Inovação, Análise de Dados","Educação, Diversidade",True
+97,Juan Cunha,TI,Pleno,"Mentoria, Python, Marketing Digital, Liderança, SQL","Sustentabilidade, Diversidade",False
+98,Vitor Hugo Araújo,RH,Júnior,"SQL, Análise de Dados, Liderança, Gestão de Projetos, Excel","Inovação, Diversidade, Tecnologia",False
+99,Sra. Ana Laura Aragão,TI,Pleno,"JavaScript, SQL, Design, Comunicação, Liderança","Sustentabilidade, Tecnologia, Saúde Mental",False
+100,Pietra Montenegro,Marketing,Pleno,"Gestão de Projetos, Inovação, Excel, Comunicação, Liderança","Sustentabilidade, Inovação",False
+101,Eduarda Araújo,RH,Sênior,"JavaScript, Gestão de Projetos, Mentoria","Saúde Mental, Diversidade, Tecnologia",True
+102,Anna Liz Cirino,TI,Pleno,"Mentoria, JavaScript, Gestão de Projetos","Inovação, Educação",True
+103,Bernardo Rocha,Vendas,Sênior,"Inovação, Análise de Dados, Comunicação, SQL","Tecnologia, Sustentabilidade, Saúde Mental",False
+104,Nathan Campos,Vendas,Júnior,"Mentoria, Inovação, Design, Liderança","Sustentabilidade, Diversidade",False
+105,Isadora Pacheco,Vendas,Júnior,"JavaScript, Mentoria, Inovação","Saúde Mental, Inovação, Sustentabilidade",True
+106,Ana Cecília Pinto,RH,Sênior,"Design, JavaScript, Análise de Dados, Inovação","Educação, Inovação",True
+107,Otto Ribeiro,TI,Pleno,"SQL, Inovação, Análise de Dados, Excel","Inovação, Sustentabilidade",True
+108,Stephany Dias,Vendas,Júnior,"Marketing Digital, Liderança, Python","Inovação, Diversidade",True
+109,Gustavo Rios,TI,Sênior,"JavaScript, Mentoria, Gestão de Projetos","Diversidade, Educação, Sustentabilidade",False
+110,Sra. Isabella da Luz,TI,Sênior,"Gestão de Projetos, Análise de Dados, Excel, Mentoria, Python","Sustentabilidade, Tecnologia",False
+111,Caroline Rios,Marketing,Sênior,"Mentoria, JavaScript, Gestão de Projetos, Liderança","Educação, Inovação",True
+112,Letícia Marques,Vendas,Pleno,"Marketing Digital, Análise de Dados, Excel","Tecnologia, Educação, Saúde Mental",True
+113,Sr. Anthony Marques,RH,Pleno,"Mentoria, Design, Comunicação, Liderança, Inovação","Tecnologia, Saúde Mental",True
+114,Beatriz Barbosa,Vendas,Sênior,"Excel, Liderança, SQL, Mentoria","Sustentabilidade, Saúde Mental, Educação",True
+115,Hadassa Montenegro,Vendas,Júnior,"Análise de Dados, Python, Marketing Digital, Inovação","Educação, Diversidade",True
+116,Davi Lucca Ferreira,Marketing,Sênior,"Python, Excel, Marketing Digital, Gestão de Projetos","Diversidade, Sustentabilidade, Inovação",True
+117,Joaquim Freitas,RH,Júnior,"Liderança, Análise de Dados, Inovação, JavaScript, Excel","Educação, Inovação, Tecnologia",True
+118,Emanuel Macedo,TI,Júnior,"Excel, Inovação, Liderança, Marketing Digital, Python","Inovação, Saúde Mental, Tecnologia",True
+119,Liz Pimenta,TI,Sênior,"Análise de Dados, Design, Comunicação","Tecnologia, Saúde Mental",False
+120,Vitória Albuquerque,Vendas,Sênior,"Liderança, Marketing Digital, Gestão de Projetos","Sustentabilidade, Saúde Mental, Inovação",True
+121,Letícia Ribeiro,TI,Pleno,"Mentoria, Gestão de Projetos, Comunicação, Inovação, Análise de Dados","Tecnologia, Diversidade",True
+122,Davi Luiz da Luz,Vendas,Pleno,"JavaScript, Excel, Marketing Digital, Mentoria, Gestão de Projetos","Sustentabilidade, Inovação",False
+123,Cauê Souza,TI,Júnior,"Excel, Design, SQL, Inovação, Análise de Dados","Diversidade, Sustentabilidade",True
+124,Daniela da Mata,RH,Júnior,"Comunicação, Análise de Dados, Design, Gestão de Projetos","Educação, Diversidade, Sustentabilidade",False
+125,Gustavo Henrique Silva,Marketing,Júnior,"Mentoria, JavaScript, Liderança, Comunicação, Análise de Dados","Saúde Mental, Tecnologia",False
+126,Sr. João Montenegro,TI,Pleno,"SQL, Marketing Digital, Mentoria","Saúde Mental, Diversidade, Sustentabilidade",False
+127,Isis Aragão,Marketing,Sênior,"Comunicação, Análise de Dados, JavaScript","Tecnologia, Diversidade",False
+128,Otávio da Mota,RH,Júnior,"Análise de Dados, Gestão de Projetos, JavaScript","Educação, Saúde Mental, Inovação",False
+129,Alexandre Farias,RH,Júnior,"SQL, Excel, Design, Inovação","Educação, Inovação",True
+130,João Castro,Marketing,Sênior,"Marketing Digital, Mentoria, Inovação","Saúde Mental, Educação, Diversidade",False
+131,Sra. Mariane Novais,TI,Pleno,"Mentoria, Gestão de Projetos, Excel","Diversidade, Educação, Sustentabilidade",False
+132,Daniel Barbosa,Vendas,Pleno,"Mentoria, Python, Gestão de Projetos, Liderança, Excel","Sustentabilidade, Saúde Mental",False
+133,Srta. Ísis Andrade,Marketing,Sênior,"Gestão de Projetos, Design, Liderança, Mentoria","Educação, Inovação",True
+134,Sr. Pedro Cardoso,Vendas,Sênior,"JavaScript, Análise de Dados, SQL, Python","Inovação, Tecnologia",False
+135,Leandro Fonseca,Vendas,Pleno,"Excel, Comunicação, Gestão de Projetos, Liderança, Python","Saúde Mental, Diversidade",True
+136,Luiz Henrique Costela,Marketing,Pleno,"Excel, Gestão de Projetos, Marketing Digital, SQL","Diversidade, Sustentabilidade",True
+137,Isadora Rios,Marketing,Júnior,"Marketing Digital, JavaScript, Excel, Análise de Dados","Tecnologia, Diversidade, Inovação",True
+138,Luiz Gustavo Vasconcelos,Vendas,Júnior,"Liderança, Excel, SQL, Design, Inovação","Tecnologia, Inovação, Educação",True
+139,Maria Luísa Pinto,Vendas,Júnior,"Análise de Dados, Inovação, Gestão de Projetos","Sustentabilidade, Diversidade",True
+140,Srta. Isabela Castro,RH,Júnior,"SQL, Marketing Digital, Inovação, Mentoria, Python","Tecnologia, Diversidade, Inovação",False
+141,Noah Alves,Marketing,Júnior,"Análise de Dados, Design, Excel, Mentoria, Gestão de Projetos","Diversidade, Educação, Tecnologia",False
+142,Lucas Gabriel Viana,Marketing,Júnior,"Design, Marketing Digital, SQL, Excel","Sustentabilidade, Tecnologia, Diversidade",True
+143,Isadora da Mata,Vendas,Júnior,"SQL, Excel, Mentoria, Análise de Dados, Inovação","Tecnologia, Sustentabilidade",True
+144,Cauê Garcia,TI,Pleno,"Python, Comunicação, Análise de Dados, Liderança","Inovação, Tecnologia, Sustentabilidade",False
+145,Ravy Câmara,Vendas,Júnior,"Inovação, Gestão de Projetos, Liderança","Inovação, Saúde Mental",True
+146,Raul Ferreira,RH,Sênior,"Mentoria, Inovação, Marketing Digital, Python","Sustentabilidade, Saúde Mental, Diversidade",True
+147,Ian Câmara,TI,Pleno,"Design, Excel, JavaScript","Sustentabilidade, Inovação, Tecnologia",False
+148,Gael Guerra,Marketing,Sênior,"Análise de Dados, Python, Inovação","Educação, Inovação",True
+149,Dr. Bernardo Vargas,TI,Sênior,"Liderança, Design, Marketing Digital, Comunicação","Inovação, Sustentabilidade, Diversidade",True
+150,Luiz Fernando Ramos,Marketing,Pleno,"Python, Gestão de Projetos, Comunicação, Liderança, Excel","Saúde Mental, Sustentabilidade",False
+151,Maria Liz Rocha,RH,Sênior,"Gestão de Projetos, Inovação, JavaScript","Educação, Diversidade, Inovação",True
+152,Luísa Alves,RH,Sênior,"Mentoria, Inovação, SQL, Marketing Digital","Sustentabilidade, Tecnologia, Saúde Mental",False
+153,José Pedro Cavalcanti,RH,Júnior,"Liderança, Excel, Análise de Dados","Tecnologia, Educação",False
+154,Julia Andrade,RH,Pleno,"Liderança, Python, Inovação, Excel","Sustentabilidade, Diversidade",False
+155,Pedro Henrique Ferreira,Marketing,Pleno,"SQL, Mentoria, Gestão de Projetos, Liderança","Educação, Diversidade, Sustentabilidade",False
+156,Sra. Maya Pereira,RH,Sênior,"Excel, Liderança, JavaScript","Sustentabilidade, Diversidade, Educação",False
+157,Bruna Gomes,RH,Sênior,"Mentoria, Liderança, Inovação, Python","Saúde Mental, Diversidade, Tecnologia",False
+158,Esther da Cunha,TI,Sênior,"Gestão de Projetos, Comunicação, Liderança, Análise de Dados, SQL","Sustentabilidade, Inovação",False
+159,Pedro Henrique Abreu,TI,Júnior,"Gestão de Projetos, Liderança, Inovação","Tecnologia, Educação",True
+160,Zoe Rodrigues,Marketing,Pleno,"Liderança, Mentoria, JavaScript, SQL, Inovação","Tecnologia, Diversidade",False
+161,Dra. Fernanda Fonseca,TI,Sênior,"SQL, Mentoria, Análise de Dados","Tecnologia, Educação",True
+162,Ana Lívia Rios,Marketing,Júnior,"Marketing Digital, Excel, Mentoria, Design","Sustentabilidade, Inovação, Saúde Mental",False
+163,Dr. Davi Silveira,TI,Sênior,"Liderança, Gestão de Projetos, Inovação","Saúde Mental, Sustentabilidade, Diversidade",False
+164,Thiago das Neves,Vendas,Sênior,"Design, JavaScript, Inovação","Inovação, Saúde Mental",False
+165,Maria Luísa Duarte,Vendas,Pleno,"Análise de Dados, SQL, Marketing Digital","Sustentabilidade, Saúde Mental, Diversidade",False
+166,Laís Novaes,Marketing,Pleno,"Marketing Digital, JavaScript, SQL, Liderança, Gestão de Projetos","Tecnologia, Saúde Mental, Diversidade",True
+167,Gael Leão,RH,Pleno,"Análise de Dados, Python, JavaScript, Inovação, SQL","Diversidade, Inovação",True
+168,Maria Helena Rocha,Vendas,Sênior,"Excel, JavaScript, Inovação, Design","Saúde Mental, Educação",False
+169,Srta. Liz Guerra,TI,Sênior,"Gestão de Projetos, SQL, Marketing Digital","Educação, Inovação, Saúde Mental",False
+170,Agatha da Rosa,TI,Júnior,"Python, Gestão de Projetos, Marketing Digital, Excel, Design","Educação, Tecnologia",True
+171,Gustavo Henrique Lopes,Vendas,Pleno,"Design, Gestão de Projetos, Comunicação, Excel","Tecnologia, Sustentabilidade, Educação",True
+172,Luna Martins,Marketing,Pleno,"Design, Liderança, Marketing Digital, SQL","Diversidade, Saúde Mental, Educação",False
+173,Melina Rocha,TI,Pleno,"Design, Mentoria, JavaScript","Diversidade, Tecnologia, Inovação",True
+174,Thomas Melo,Vendas,Pleno,"Marketing Digital, Comunicação, Design","Inovação, Diversidade",False
+175,Srta. Antonella da Paz,Marketing,Sênior,"Mentoria, Inovação, Excel","Tecnologia, Sustentabilidade",True
+176,Lívia Borges,RH,Júnior,"Marketing Digital, Liderança, Python, Inovação","Diversidade, Tecnologia, Educação",False
+177,Leonardo Câmara,TI,Pleno,"SQL, Excel, Liderança, Comunicação, Marketing Digital","Sustentabilidade, Tecnologia",True
+178,Diogo Alves,Vendas,Sênior,"Excel, JavaScript, Comunicação, Análise de Dados, Mentoria","Educação, Diversidade",True
+179,Joaquim Melo,Marketing,Pleno,"Liderança, Análise de Dados, Inovação","Inovação, Saúde Mental",False
+180,Ana Sophia Marques,TI,Júnior,"SQL, Liderança, Mentoria, Análise de Dados, Marketing Digital","Inovação, Educação",True
+181,Evelyn Silva,RH,Pleno,"Marketing Digital, Excel, Inovação, Liderança","Educação, Saúde Mental, Tecnologia",False
+182,Sra. Sabrina Guerra,Vendas,Pleno,"Gestão de Projetos, JavaScript, Comunicação, Excel","Saúde Mental, Sustentabilidade",False
+183,Diogo Rezende,TI,Sênior,"Mentoria, SQL, Análise de Dados, Comunicação","Inovação, Saúde Mental",True
+184,Srta. Bianca Vasconcelos,RH,Júnior,"Mentoria, Liderança, Comunicação, SQL, Marketing Digital","Saúde Mental, Inovação",False
+185,Hellena Cavalcanti,TI,Sênior,"SQL, Análise de Dados, Design, Gestão de Projetos, Liderança","Saúde Mental, Tecnologia, Educação",False
+186,Dra. Nicole Aragão,Vendas,Sênior,"Liderança, Gestão de Projetos, Excel","Educação, Tecnologia, Inovação",True
+187,Isadora Campos,RH,Pleno,"Excel, Design, Mentoria, Liderança","Tecnologia, Diversidade, Educação",False
+188,Catarina Martins,Marketing,Pleno,"SQL, Excel, Python","Diversidade, Sustentabilidade, Saúde Mental",False
+189,Vitória Novais,Marketing,Júnior,"Design, Análise de Dados, Excel, Gestão de Projetos, Marketing Digital","Inovação, Sustentabilidade, Saúde Mental",True
+190,Luiza Sá,RH,Júnior,"JavaScript, Comunicação, Liderança","Saúde Mental, Tecnologia",True
+191,Sofia Lima,TI,Sênior,"SQL, Comunicação, Mentoria, Marketing Digital, Design","Diversidade, Saúde Mental",False
+192,Melissa Castro,TI,Sênior,"Marketing Digital, Design, Análise de Dados, Python, SQL","Tecnologia, Inovação",True
+193,Sra. Milena da Luz,RH,Sênior,"Excel, Python, Gestão de Projetos, Inovação","Educação, Saúde Mental, Sustentabilidade",False
+194,João Guilherme Vargas,Marketing,Júnior,"Análise de Dados, Mentoria, Excel, Design","Sustentabilidade, Diversidade, Inovação",False
+195,Raquel Pires,RH,Júnior,"Inovação, Liderança, Excel, Design, SQL","Educação, Tecnologia, Saúde Mental",False
+196,João Guilherme Macedo,TI,Júnior,"SQL, Mentoria, Liderança","Inovação, Sustentabilidade, Diversidade",False
+197,João Pedro da Costa,Vendas,Pleno,"Excel, Marketing Digital, Gestão de Projetos","Sustentabilidade, Diversidade, Educação",True
+198,Lucas Gabriel Dias,Marketing,Pleno,"SQL, Comunicação, Análise de Dados","Saúde Mental, Diversidade",True
+199,Anna Liz Carvalho,Vendas,Sênior,"Design, Inovação, SQL, Mentoria, Marketing Digital","Tecnologia, Educação, Diversidade",False
+200,Igor Gomes,RH,Júnior,"Gestão de Projetos, Marketing Digital, JavaScript, Análise de Dados, Mentoria","Educação, Diversidade, Sustentabilidade",True
